@@ -2,16 +2,32 @@
 /* This is a comment! Text here will be ignored by the browser. */
 body {
 	margin: 0 auto;
+	 font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
+     background-color: #FF0003;
+     margin: 0;
+     padding: 0;
+     color: #000;
+}
+
+
+a:link {
+     color: #FFFFFF;
+}
+a:visited {
+     color: #FFFEFE;
+}
+a:hover, a:active, a:focus { 
+     text-decoration: underline;
 }
 .homePage {
-	background: #222222;
+	background: #221C1C;
 }
 .container {
 	width: 960px;
 	margin: 0 auto;
 }
 .header {
-	background: #0C00FF;
+	background: #2A2A7B;
 	text-align: center;
 	margin: 0px;
 	padding: 5;
@@ -21,7 +37,7 @@ body {
 	
 }
 .nav {
-	background: #ff0000;
+	background: #611C1E;
 	margin: 0px;
 	padding: 5;
 	float: left;
@@ -38,7 +54,7 @@ body {
 	text-align: center;
 }
 .footer {
-	background: #ff0000;
+	background: #222993;
 	margin: 0px;
 	float: left;
 	width: 100%;
