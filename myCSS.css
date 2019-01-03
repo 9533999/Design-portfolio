@@ -3,7 +3,7 @@
 body {
 	margin: 0 auto;
 	 font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
-     background-color: #FF0003;
+     background-color: #000000;
      margin: 0;
      padding: 0;
      color: #000;
@@ -33,7 +33,7 @@ a:hover, a:active, a:focus {
 	padding: 5;
 	float: left;
 	width: 100%;
-	height: 80px;
+	height: 150px;
 	
 }
 .nav {
